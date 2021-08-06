@@ -1,6 +1,6 @@
 # latihan
 
-Daftar biodata
+## Daftar biodata
 --
 *biodata siswa terdiri dari 3 angkatan yaitu sebagai berikut*
 - Angkatan 2019
